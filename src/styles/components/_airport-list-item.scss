@@ -1,0 +1,7 @@
+.airport-list-item {
+  cursor: pointer;
+
+  &:hover{
+    background-color: var(--color-grey-light-1);
+  }
+}
